@@ -25,6 +25,7 @@ SECRET_KEY = 'b=wrwt!8tjlrewp9!7ek=0t0tix-$a)+woj8sm5n62&*pa$jq0'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'nichujie.xyz',
     '*.nichujie.xyz'
 ]
 
